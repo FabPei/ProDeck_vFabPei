@@ -9,6 +9,9 @@ Notable changes:
   - Split by Paragraph: Split shapes by paragraphs and merge them
   - "Create Grid of Shapes": Splits any shape in mutliply of it in the same size as the parent object
   - "Align to arrow": Aligns any shape to the last edge of an arrow (but not the tip)
+ 
+  <img width="2230" height="154" alt="grafik" src="https://github.com/user-attachments/assets/346381d2-3f6f-47de-9d39-6aeb9280820d" />
+
 
 # ProDeck PowerPoint Toolbar Addin
 
@@ -19,5 +22,6 @@ ProDeck is a PowerPoint add-in designed to help those who work extensively with 
 To install on Windows or Mac:
 - Download the `.ppam` in the [releases page](https://github.com/rodrigolourencofarinha/ProDeck/releases)
 - **Important!** Follow the [installation instructions](https://github.com/rodrigolourencofarinha/ProDeck?tab=readme-ov-file#installing--uninstalling)
+
 
 
